@@ -2,7 +2,7 @@
 
 Just a basic  python script to test progressbars I customize.
 
-![alt text](https://github.com/babyboydaprince/progressbar/blob/main/img/model.png?raw=true)
+![alt text](D:\Software\Apps\git\personal_git\babyboydaprince\progressbar\img\caffeine.png)
 
 ## 🚀 Run
 
